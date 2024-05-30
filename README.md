@@ -1,21 +1,8 @@
-### Hi there 👋, I am Indrajeet !!
+## Hi there 👋, I am Indrajeet!
 
-<!--
-**indrajeet125/indrajeet125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated full stack Java web developer with a passion for creating efficient and scalable applications. My expertise lies in backend development, where I focus on designing robust systems and delivering production-ready products. On the frontend, I mainly work with React to build intuitive and engaging user interfaces.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a dedicated web developer, mainly using React. My main focus is on Back-End developement, designing good looking and Scalable application, and devlivering an amazing production ready product.
+---
 
 ## Languages and Technologies
 
@@ -25,11 +12,25 @@ I'm a dedicated web developer, mainly using React. My main focus is on Back-End 
     <img src="./assets/python.jpeg" width="50" height="50"/>
     <img src="./assets/springboot.png" width="50" height="50"/>
     <img src="./assets/reactjs.png" width="50" height="50"/>
-
 </div>
+
+## Skills, I've
+
+- **Programming Languages** : Java, JavaScript, Python, SQL
+- **Frontend**: React, HTML, CSS , react
+- **Backend**: Spring Boot, Hibernate, JPA
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker
+- **Soft Skills**: Problem-solving, Team collaboration
 
 ## 🌱d I'm currently Learning
 
-- Spring boot
-- ORM tools
+- Micro services with Spring boot
 - Machine Learning(ML)
+- Basic of Unix/Linux
+
+---
+
+## 👯 I’m looking to collaborate on innovative projects that require full stack expertise.
+
+## 💬 Ask me about backend development, Java, React, or any tech-related topic.
