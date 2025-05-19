@@ -30,7 +30,6 @@ I'm a dedicated full stack Java web developer with a passion for creating effici
 - Basic of Unix/Linux
 
 ---
-
-## 👯 I’m looking to collaborate on innovative projects that require full stack expertise.
+ 
 
 ## 💬 Ask me about backend development, Java, React, or any tech-related topic.
