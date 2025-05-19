@@ -1,5 +1,4 @@
-## Hi there 👋, I am Indrajeet!
-
+## Hi there 👋,  
 I'm a dedicated full stack Java web developer with a passion for creating efficient and scalable applications. My expertise lies in backend development, where I focus on designing robust systems and delivering production-ready products. On the frontend, I mainly work with React to build intuitive and engaging user interfaces.
 
 ---
